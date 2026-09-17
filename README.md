@@ -16,5 +16,3 @@ The script generates a publication-ready Forest Plot detailing:
 *   The mean change (Delta) for each behavioral metric.
 *   The 95% Confidence Intervals calculated via bootstrapping.
 *   Visual annotations indicating statistical significance (whether the CI crosses the zero-effect line).
-
-*(Note to yourself: Once you upload this to GitHub, take a screenshot of the graph your code generates and add the image right here in the README!)*
